@@ -2,8 +2,8 @@
     "api_key":"",
     "path_pdf":"./temp/The-Mom-Test-en.pdf",
     "chunk_size":1000,
-    "chunk_size_exact":20,
-    "chunk_overlab":0,
+    "chunk_size_exact":300,
+    "chunk_overlap":0,
     "embedding_model":"text-search-ada-doc-001",
     "top_k":1000
 }
