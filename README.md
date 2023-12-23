@@ -11,6 +11,10 @@ With this app, you can upload your PDF file and search for a specific words, phr
 
 ## Deployment
 To deploy this project run: 
+1)
 ```bash
 git clone git@github.com:shirindehghani/Information-Retrieval.git
+```
+```bach
+pip install -r requirement.txt 
 ```
