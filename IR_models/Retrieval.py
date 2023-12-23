@@ -60,7 +60,7 @@ class openAI():
         self.chunk_overlap=None
         self.embedding_model=None
         self.top_k=None
-        self.read_config(config_path="./configs.json")
+        self.read_config(config_path="./configs/configs.json")
     
     def read_config(self, config_path):
         try:

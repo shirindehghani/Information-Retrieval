@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from IR_models.Retrieval import query_builder_andRetrieve, ExactRetrieval, openAI
+from IR_models.Retrieval import ExactRetrieval, openAI
 
 app = FastAPI()
 
@@ -14,6 +14,6 @@ def query_builder_andRetrieve(query: str):
     return result
 
 @app.get("/")
-def query_endpoint(query: str):
+async def query_endpoint(query: str):
     result = query_builder_andRetrieve(query)
     return {"result": result}

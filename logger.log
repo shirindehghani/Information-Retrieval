@@ -7,3 +7,32 @@
 23-Dec-23 10:16:01 - INFO - Successfully loaded faiss.
 23-Dec-23 10:16:01 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
 23-Dec-23 10:22:19 - INFO - HTTP Request: GET http://testserver/?query=singleword "HTTP/1.1 200 OK"
+23-Dec-23 11:51:15 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 422 Unprocessable Entity"
+23-Dec-23 11:53:00 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 422 Unprocessable Entity"
+23-Dec-23 11:56:28 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 422 Unprocessable Entity"
+23-Dec-23 11:58:53 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 422 Unprocessable Entity"
+23-Dec-23 12:02:04 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 422 Unprocessable Entity"
+23-Dec-23 12:02:04 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 422 Unprocessable Entity"
+23-Dec-23 12:10:59 - ERROR - Specify the correct config path.
+23-Dec-23 12:11:01 - ERROR - Specify the correct config path.
+23-Dec-23 12:11:01 - ERROR - Specify the correct config path.
+23-Dec-23 12:11:01 - ERROR - Specify the correct config path.
+23-Dec-23 12:11:02 - ERROR - Specify the correct config path.
+23-Dec-23 12:11:02 - ERROR - Specify the correct config path.
+23-Dec-23 12:11:08 - ERROR - Specify the correct config path.
+23-Dec-23 12:11:08 - ERROR - Specify the correct config path.
+23-Dec-23 12:14:22 - ERROR - Specify the correct config path.
+23-Dec-23 12:14:23 - ERROR - Specify the correct config path.
+23-Dec-23 12:14:24 - ERROR - Specify the correct config path.
+23-Dec-23 12:15:03 - ERROR - Specify the correct config path.
+23-Dec-23 12:15:38 - ERROR - Specify the correct config path.
+23-Dec-23 12:18:06 - ERROR - Specify the correct config path.
+23-Dec-23 12:19:20 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 12:19:21 - INFO - Loading faiss.
+23-Dec-23 12:19:21 - INFO - Successfully loaded faiss.
+23-Dec-23 12:19:21 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 12:20:33 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 12:20:34 - INFO - Loading faiss.
+23-Dec-23 12:20:34 - INFO - Successfully loaded faiss.
+23-Dec-23 12:20:34 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 12:22:57 - INFO - HTTP Request: GET http://testserver/?query=father "HTTP/1.1 200 OK"
