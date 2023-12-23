@@ -28,7 +28,7 @@ For build an image please run:
 ```bash
 docker build -t your-image-name .
 ```
-\
+
 # Refrence
 ```
 
