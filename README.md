@@ -26,5 +26,5 @@ pip install -r requirement.txt
 ## Docker
 For build an image please run: 
 ```bash
-
+docker build -t your-image-name .
 ```
