@@ -52,8 +52,8 @@ class ExactRetrieval():
     
     
 class openAI():
-    def __init__(self):
-        self.api_key=None
+    def __init__(self, api_key):
+        self.api_key=api_key
         self.path_pdf=None
         self.chunk_size=None
         self.chunk_size_exact=None
@@ -70,7 +70,6 @@ class openAI():
         else:
             my_config=json.load(config_file)
             config_file.close()
-            self.api_key=my_config['api_key']
             self.path_pdf=my_config['path_pdf']
             self.chunk_size=my_config['chunk_size']
             self.chunk_size_exact=my_config['chunk_size_exact']
@@ -96,12 +95,12 @@ class openAI():
         return docs_ret
     
     
-def query_builder_andRetrieve(query:str):
+def query_builder_andRetrieve(query:str, api_key):
     tokenize_q=query.split()
     if len(tokenize_q)==1:
         retriver=ExactRetrieval()
         result=retriver.retrieve_doc(query.lower())
     else:
-        retriver=openAI()
+        retriver=openAI(api_key)
         result=retriver.index_embedding(query)
     return result

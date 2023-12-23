@@ -41,3 +41,135 @@
 23-Dec-23 13:40:02 - INFO - Successfully loaded faiss.
 23-Dec-23 13:40:02 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
 23-Dec-23 13:44:29 - INFO - HTTP Request: GET http://testserver/?query=father "HTTP/1.1 200 OK"
+23-Dec-23 18:20:26 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:20:28 - INFO - Loading faiss.
+23-Dec-23 18:20:28 - INFO - Successfully loaded faiss.
+23-Dec-23 18:20:28 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:35:29 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:35:30 - INFO - Loading faiss.
+23-Dec-23 18:35:30 - INFO - Successfully loaded faiss.
+23-Dec-23 18:35:30 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:36:37 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:36:38 - INFO - Loading faiss.
+23-Dec-23 18:36:38 - INFO - Successfully loaded faiss.
+23-Dec-23 18:36:38 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:37:12 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:37:13 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:37:27 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:37:28 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:37:28 - INFO - Retrying request to /embeddings in 0.945713 seconds
+23-Dec-23 18:37:29 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:37:29 - INFO - Retrying request to /embeddings in 1.514668 seconds
+23-Dec-23 18:37:31 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:37:42 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:37:43 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:37:43 - INFO - Retrying request to /embeddings in 0.763301 seconds
+23-Dec-23 18:37:44 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:37:44 - INFO - Retrying request to /embeddings in 1.500158 seconds
+23-Dec-23 18:37:46 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:38:08 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:38:09 - INFO - Loading faiss.
+23-Dec-23 18:38:09 - INFO - Successfully loaded faiss.
+23-Dec-23 18:38:09 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:38:09 - INFO - Retrying request to /embeddings in 0.990695 seconds
+23-Dec-23 18:38:10 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:38:10 - INFO - Retrying request to /embeddings in 1.727196 seconds
+23-Dec-23 18:38:13 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:38:33 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:38:34 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:38:34 - INFO - Retrying request to /embeddings in 0.810534 seconds
+23-Dec-23 18:38:35 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:38:35 - INFO - Retrying request to /embeddings in 1.637495 seconds
+23-Dec-23 18:38:37 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:39:28 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:39:29 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:39:44 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:39:45 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:39:45 - INFO - Retrying request to /embeddings in 0.996831 seconds
+23-Dec-23 18:39:46 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:39:46 - INFO - Retrying request to /embeddings in 1.686291 seconds
+23-Dec-23 18:39:48 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:40:32 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:40:33 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:46:41 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:46:42 - INFO - Loading faiss.
+23-Dec-23 18:46:42 - INFO - Successfully loaded faiss.
+23-Dec-23 18:46:42 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:46:48 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:46:50 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:46:50 - INFO - Retrying request to /embeddings in 0.981578 seconds
+23-Dec-23 18:46:51 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:46:51 - INFO - Retrying request to /embeddings in 1.560989 seconds
+23-Dec-23 18:46:53 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:49:31 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:49:32 - INFO - Loading faiss.
+23-Dec-23 18:49:32 - INFO - Successfully loaded faiss.
+23-Dec-23 18:49:32 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:49:37 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:49:38 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:49:38 - INFO - Retrying request to /embeddings in 0.769366 seconds
+23-Dec-23 18:49:39 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:49:39 - INFO - Retrying request to /embeddings in 1.714291 seconds
+23-Dec-23 18:49:41 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:51:30 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:51:32 - INFO - Loading faiss.
+23-Dec-23 18:51:32 - INFO - Successfully loaded faiss.
+23-Dec-23 18:51:32 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:51:37 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:51:38 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:51:38 - INFO - Retrying request to /embeddings in 0.923796 seconds
+23-Dec-23 18:51:39 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:51:39 - INFO - Retrying request to /embeddings in 1.856635 seconds
+23-Dec-23 18:51:41 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:54:36 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:54:37 - INFO - Loading faiss.
+23-Dec-23 18:54:37 - INFO - Successfully loaded faiss.
+23-Dec-23 18:54:37 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:57:05 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:57:06 - INFO - Loading faiss.
+23-Dec-23 18:57:06 - INFO - Successfully loaded faiss.
+23-Dec-23 18:57:06 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:57:15 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:57:17 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:57:17 - INFO - Retrying request to /embeddings in 0.880417 seconds
+23-Dec-23 18:57:18 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:57:18 - INFO - Retrying request to /embeddings in 1.958815 seconds
+23-Dec-23 18:57:20 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:58:07 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:58:10 - INFO - Loading faiss.
+23-Dec-23 18:58:10 - INFO - Successfully loaded faiss.
+23-Dec-23 18:58:10 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:58:12 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:58:13 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:58:13 - INFO - Retrying request to /embeddings in 0.904295 seconds
+23-Dec-23 18:58:14 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:58:14 - INFO - Retrying request to /embeddings in 1.629799 seconds
+23-Dec-23 18:58:16 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:58:34 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:58:35 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:58:35 - INFO - Retrying request to /embeddings in 0.967490 seconds
+23-Dec-23 18:58:37 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:58:37 - INFO - Retrying request to /embeddings in 1.763825 seconds
+23-Dec-23 18:58:39 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 18:59:23 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 18:59:24 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 19:00:59 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 19:01:00 - INFO - Loading faiss.
+23-Dec-23 19:01:00 - INFO - Successfully loaded faiss.
+23-Dec-23 19:01:00 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 19:02:32 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 19:02:32 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 19:02:34 - INFO - Loading faiss.
+23-Dec-23 19:02:34 - INFO - Successfully loaded faiss.
+23-Dec-23 19:02:34 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 19:02:35 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 19:02:35 - INFO - Retrying request to /embeddings in 0.911954 seconds
+23-Dec-23 19:02:36 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 19:02:36 - INFO - Retrying request to /embeddings in 1.882596 seconds
+23-Dec-23 19:02:38 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+23-Dec-23 19:03:40 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 19:03:41 - INFO - Loading faiss.
+23-Dec-23 19:03:41 - INFO - Successfully loaded faiss.
+23-Dec-23 19:03:41 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 19:04:02 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 19:04:03 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
