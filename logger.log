@@ -1,0 +1,8 @@
+23-Dec-23 10:15:32 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 10:15:33 - INFO - Loading faiss.
+23-Dec-23 10:15:34 - INFO - Successfully loaded faiss.
+23-Dec-23 10:15:34 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 10:16:00 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+23-Dec-23 10:16:01 - INFO - Loading faiss.
+23-Dec-23 10:16:01 - INFO - Successfully loaded faiss.
+23-Dec-23 10:16:01 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"

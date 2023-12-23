@@ -1,5 +1,5 @@
 {
-    "api_key":"",
+    "api_key":"ENTER_YOUR_OPENAI_API_KEY",
     "path_pdf":"./temp/The-Mom-Test-en.pdf",
     "chunk_size":1000,
     "chunk_size_exact":300,

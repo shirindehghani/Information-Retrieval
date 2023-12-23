@@ -26,12 +26,9 @@ class ExactRetrieval():
         else:
             my_config=json.load(config_file)
             config_file.close()
-            self.api_key=my_config['api_key']
             self.path_pdf=my_config['path_pdf']
-            self.chunk_size=my_config['chunk_size']
             self.chunk_size_exact=my_config['chunk_size_exact']
             self.chunk_overlap=my_config['chunk_overlap']
-            self.embedding_model=my_config['embedding_model']
             self.top_k=my_config['top_k']
     
     def load_and_split_contents(self):
@@ -59,6 +56,7 @@ class openAI():
         self.api_key=None
         self.path_pdf=None
         self.chunk_size=None
+        self.chunk_size_exact=None
         self.chunk_overlap=None
         self.embedding_model=None
         self.top_k=None
@@ -81,7 +79,7 @@ class openAI():
             self.top_k=my_config['top_k']
 
     def load_and_split_contents(self):
-        loader=PyPDFLoader(path=self.path)
+        loader=PyPDFLoader(self.path_pdf)
         docs=loader.load()
         text_splitter=RecursiveCharacterTextSplitter(chunk_size=self.chunk_size,
                                                      chunk_overlap=self.chunk_overlap,
@@ -89,6 +87,7 @@ class openAI():
         return text_splitter.split_documents(docs)
     
     def index_embedding(self, query:str):
+        os.environ['OPENAI_API_KEY']=self.api_key
         loaded_docs=self.load_and_split_contents()
         embeddings=OpenAIEmbeddings(model=self.embedding_model)
         faiss_index=FAISS.from_documents(loaded_docs, embeddings)
