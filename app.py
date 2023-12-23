@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from Retrieval import query_builder_andRetrieve, ExactRetrieval, openAI
+from IR_models.Retrieval import query_builder_andRetrieve, ExactRetrieval, openAI
 
 app = FastAPI()
 

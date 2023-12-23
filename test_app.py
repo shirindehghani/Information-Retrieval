@@ -10,7 +10,7 @@ def test1_exact_retrieval():
     assert response.json() == {"result": "LIST_OF_phrases_with_mom"}
 
 def test2_openai():
-    query = "mom test"
+    query = "What is the meaning of mom test?"
     response = client.get(f"/", params={"query": query})
     assert response.status_code == 200
     assert response.json() == {"result": "LIST_OF_phrases_with_mom test_or near this"}
