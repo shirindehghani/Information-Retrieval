@@ -28,3 +28,14 @@ For build an image please run:
 ```bash
 docker build -t your-image-name .
 ```
+\
+# Refrence
+```
+
+@article{zhu2023large,
+  title={Large language models for information retrieval: A survey},
+  author={Zhu, Yutao and Yuan, Huaying and Wang, Shuting and Liu, Jiongnan and Liu, Wenhan and Deng, Chenlong and Dou, Zhicheng and Wen, Ji-Rong},
+  journal={arXiv preprint arXiv:2308.07107},
+  year={2023}
+}
+```
