@@ -8,3 +8,4 @@ tiktoken==0.4.0
 uvicorn==0.23.2
 pytest==7.4.3
 pathlib==1.0.1
+./needed_pkgs/Log_Handler-1.0-py3-none-any.whl
