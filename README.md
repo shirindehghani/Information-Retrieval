@@ -10,7 +10,7 @@ With this app, you can upload your PDF file and search for a specific words, phr
 
 
 ## Deployment
-To deploy this project run: 
+To deploy this project run: \
 1: clone the repository:
 ```bash
 git clone git@github.com:shirindehghani/Information-Retrieval.git
