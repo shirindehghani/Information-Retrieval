@@ -34,6 +34,10 @@ You should import you OpenAI api_key, input query and a PDF file:
 
 ![image](https://github.com/shirindehghani/Information-Retrieval/blob/main/imgs/Ui.png)
 
+#### TODO:
+- add LLMs like llama2, mistral and etc. for chat with PDF!
+- Improve the UI
+- Speed up process
 
 # Refrence
 ```
