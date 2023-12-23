@@ -5,4 +5,5 @@
 ![image](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 
 With this app, you can upload your PDF file and search for a specific words, phrase and etc. The main algorithm can describe bellow:\
+
 ![image](https://github.com/shirindehghani/Information-Retrieval/blob/main/imgs/algorithm.png)
