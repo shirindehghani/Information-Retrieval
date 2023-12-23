@@ -6,3 +6,6 @@
 
 With this app, you can upload your PDF file and search for a specific words, phrase and etc. The main algorithm can describe bellow:
 
+
+you can test my app here: https://information-retrieval-app.streamlit.app/
+
