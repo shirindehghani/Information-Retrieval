@@ -1,6 +1,6 @@
 # Documentation Retrieval
 
-![image](https://miro.medium.com/v2/resize:fit:800/format:webp/1*OARpkeBkn_Tw3vk8H769OQ.png)
+![image](https://miro.medium.com/v2/resize:fit:500/format:webp/1*OARpkeBkn_Tw3vk8H769OQ.png)
 ![image](https://img.shields.io/badge/-LangChain-32CD32?logo=LangChain&logoColor=white&style=for-the-badge)
 ![image](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 
