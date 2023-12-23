@@ -6,3 +6,22 @@
 
 With this app, you can upload your PDF file and search for a specific words, phrase and etc. The main algorithm can describe bellow:
 
+![image](https://github.com/shirindehghani/Information-Retrieval/blob/main/imgs/algorithm.png)
+
+# Deployment
+To deploy this project run
+
+1: Clone this repository:
+```bash
+git clone git@github.com:shirindehghani/Information-Retrieval.git
+```
+2: install requirements
+```bash
+pip install -r requirements.txt
+```
+
+# Docker
+Run bellow command to make docker image:
+```bash
+docker build -t your_image_name .
+```
