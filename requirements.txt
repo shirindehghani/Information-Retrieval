@@ -1,0 +1,9 @@
+langchain==0.0.352
+pypdf==3.17.3
+tqdm==4.66.1
+faiss-cpu==1.7.4
+fastapi==0.104.0
+openai==1.3.7
+tiktoken==0.4.0
+uvicorn==0.23.2
+pytest==7.4.3
