@@ -11,10 +11,20 @@ With this app, you can upload your PDF file and search for a specific words, phr
 
 ## Deployment
 To deploy this project run: 
-1)
+1: clone the repository:
 ```bash
 git clone git@github.com:shirindehghani/Information-Retrieval.git
 ```
+
+2: install requirements
 ```bach
 pip install -r requirement.txt 
+```
+
+3: Enter your openai api_key on "configs/configs.json" directory
+
+## Docker
+For build an image please run: 
+```bash
+
 ```
