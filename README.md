@@ -37,7 +37,7 @@ You should import you OpenAI api_key, input query and a PDF file:
 #### TODO:
 - add LLMs like llama2, mistral and etc. for chat with PDF!
 - Improve the UI
-- Speed up process
+- Speed up the process
 
 # Refrence
 ```
