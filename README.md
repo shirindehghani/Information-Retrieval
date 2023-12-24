@@ -39,7 +39,7 @@ You should import you OpenAI api_key, input query and a PDF file:
 - Improve the UI
 - Speed up the process
 
-# Refrence
+# References
 ```
 
 @article{zhu2023large,
