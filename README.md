@@ -34,8 +34,8 @@ You should import you OpenAI api_key, input query and a PDF file:
 
 ![image](https://github.com/shirindehghani/Information-Retrieval/blob/main/imgs/Ui.png)
 
-# Project Structure
-```bash
+### Project Structure
+```
 |──IR_models ──|──Retrieval.py
 |
 |──configs ──|──configs.json
