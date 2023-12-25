@@ -34,6 +34,29 @@ You should import you OpenAI api_key, input query and a PDF file:
 
 ![image](https://github.com/shirindehghani/Information-Retrieval/blob/main/imgs/Ui.png)
 
+# Project Structure
+```bash
+|──IR_models ──|──Retrieval.py
+|
+|──configs ──|──configs.json
+|         |──algorithm.png
+|──imgs ──|
+|         |──Ui.png
+|──temp ──|──PDF-fine.pdf
+|
+|──needded_pkgs ──|──Log-Handler
+|
+|──app.py
+|──docker-compose.yml
+|──Dockerfile
+|──LICENCE
+|──main.py
+|──main2.py
+|──README.md
+|──requirements.txt
+|──test_app.py
+```
+
 #### TODO:
 - add LLMs like llama2, mistral and etc. for chat with PDF!
 - Improve the UI
