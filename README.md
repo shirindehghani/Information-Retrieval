@@ -39,9 +39,11 @@ You should import you OpenAI api_key, input query and a PDF file:
 |──IR_models ──|──Retrieval.py
 |
 |──configs ──|──configs.json
+|
 |         |──algorithm.png
 |──imgs ──|
 |         |──Ui.png
+|
 |──temp ──|──PDF-fine.pdf
 |
 |──needded_pkgs ──|──Log-Handler
