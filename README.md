@@ -40,7 +40,7 @@ You should import you OpenAI api_key, input query and a PDF file:
 |──configs ──|──configs.json
 |──imgs ──|──algorithm.png
 |         |──Ui.png
-|──temp ──|──PDF-fine.pdf
+|──temp ──|──PDF-file.pdf
 |──needded_pkgs ──|──Log-Handler
 |──app.py
 |──docker-compose.yml
