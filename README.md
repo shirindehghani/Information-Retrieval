@@ -27,8 +27,10 @@ Run bellow command to make docker image:
 docker build -t your_image_name .
 ```
 
-You can also use this app base on streamlit UI:
-link : https://information-retrieval-app.streamlit.app/
+You can also use this app base on streamlit UI command:
+```bash
+streamlit run main.py
+```
 
 You should import you OpenAI api_key, input query and a PDF file:
 
