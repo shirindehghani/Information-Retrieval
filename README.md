@@ -49,7 +49,7 @@ You should import you OpenAI api_key, input query and a PDF file:
 |──Dockerfile
 |──LICENCE
 |──main.py
-|──main2.py
+|──main2.py (streamlit)
 |──README.md
 |──requirements.txt
 |──test_app.py
