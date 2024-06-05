@@ -57,7 +57,7 @@ You should import you OpenAI api_key, input query and a PDF file:
 
 #### TODO:
 - Improve the UI
-- Speed up the process
+- Speed up the process and improve chuncks
 
 # References
 ```
